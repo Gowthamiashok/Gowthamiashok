@@ -1,6 +1,8 @@
 # Hi there, I'm Gowthami A 👋
 
-I'm an aspiring and dedicated Data Science graduate with a passion for machine learning, data visualization, and full-stack development. I specialize in building responsive web applications and developing predictive models that solve real-world problems.
+I'm an aspiring and dedicated data science graduate with a strong expertise in SQL, Python, and data visualization using tools
+like Tableau and Power BI. Proficient in developing machine learning models, automating reports, and delivering
+actionable business insights. Seeking opportunities to further enhance expertise in the field of Data Science.
 
 ## 🛠 Technologies & Tools
 - **Programming Languages**: Python, R, Java, C
@@ -10,9 +12,9 @@ I'm an aspiring and dedicated Data Science graduate with a passion for machine l
 - **Web Development**: HTML, CSS, JavaScript, Angular, Flask
 
 ## 🌟 Featured Projects
-- [Identification and Prediction of Gestational Diabetes](https://github.com/Gowthamiashok/Gestational-Diabetes-Prediction) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
-- [Fake News Detection using Deep Learning](https://github.com/Gowthamiashok/Fake-News-Detection) - Created multiple deep learning models to detect harmful fake news, providing a solution to mitigate misinformation.
-- [Covid-19 Prediction using R](https://github.com/Gowthamiashok/Covid19-Prediction) - Built a linear regression model to predict and visualize Covid-19 trends.
+- [Identification and Prediction of Gestational Diabetes](https://github.com/Gowthamiashok/Gestational_Diabetes) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
+- [Fake News Detection using Deep Learning](https://github.com/Gowthamiashok/Deep-Learning-Projects/tree/main/Fake%20News%20Detection) - Created multiple deep learning models to detect harmful fake news, providing a solution to mitigate misinformation.
+- [Covid-19 Prediction using R](https://github.com/Gowthamiashok/Machine-Learning-Projects/tree/main/Covid-19%20Prediction%20using%20R) - Built a linear regression model to predict and visualize Covid-19 trends.
 - [Airline Passenger Satisfaction](https://github.com/Gowthamiashok/Passenger-Satisfaction) - Analyzed data trends, built a Tableau dashboard, and integrated it into a website for improved decision-making.
 
 ## 📈 GitHub Stats
