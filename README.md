@@ -15,7 +15,7 @@ actionable business insights. Seeking opportunities to further enhance expertise
 - [Identification and Prediction of Gestational Diabetes](https://github.com/Gowthamiashok/Gestational_Diabetes) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
 - [Fake News Detection using Deep Learning](https://github.com/Gowthamiashok/Deep-Learning-Projects/tree/main/Fake%20News%20Detection) - Created multiple deep learning models to detect harmful fake news, providing a solution to mitigate misinformation.
 - [Covid-19 Prediction using R](https://github.com/Gowthamiashok/Machine-Learning-Projects/tree/main/Covid-19%20Prediction%20using%20R) - Built a linear regression model to predict and visualize Covid-19 trends.
-- [Airline Passenger Satisfaction](https://github.com/Gowthamiashok/Passenger-Satisfaction) - Analyzed data trends, built a Tableau dashboard, and integrated it into a website for improved decision-making.
+- [Airline Passenger Satisfaction]([https://github.com/Gowthamiashok/Passenger-Satisfaction](https://github.com/Gowthamiashok/AirlinePassengerSatisfaction/tree/main)) - Analyzed data trends, built a Tableau dashboard, and integrated it into a website for improved decision-making.
 
 ## 📈 GitHub Stats
 ![Gowthami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamiashok&show_icons=true&theme=dark)
@@ -27,6 +27,16 @@ actionable business insights. Seeking opportunities to further enhance expertise
 - [LinkedIn](https://www.linkedin.com/in/gowthamiashok/)
 - Email: gowthamiashok29@gmail.com
 
-## 💡 Fun Facts
-- I have experience working with Full Stack and ML development during internships at IDP Education India Services LLP and HealthMed Technologies.
-- When I’m not coding, you’ll find me exploring new technologies and learning more about data science!
+## 💼 Experience
+- **Full Stack and Machine Learning Developer Intern**  
+  *IDP Education India Services LLP*  
+  May 2023 - July 2023  
+  - Enhanced IDP and IELTS templates by creating responsive interfaces using media queries, ensuring optimal user experience across devices.
+  - Developed and deployed a personal portfolio website utilizing advanced responsive design techniques, hosted on Firebase for seamless performance.
+
+- **UX Developer and Full Stack Developer Intern**  
+  *HealthMed Technologies*  
+  April 2022 - June 2022  
+  - Engineered an Angular web application with a Firestore backend to streamline reorder level management, improving inventory tracking efficiency.
+  - Developed and deployed machine learning models using Flask, enhancing the application’s predictive capabilities and user interactivity.
+
