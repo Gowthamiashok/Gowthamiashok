@@ -22,7 +22,6 @@ actionable business insights. Seeking opportunities to further enhance expertise
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamiashok&layout=compact&theme=dark)
 
 ## 📫 Contact Me
-- [Portfolio Website](https://gowthamiashok-myportfolio.web.app/)
 - [GitHub](https://github.com/Gowthamiashok)
 - [LinkedIn](https://www.linkedin.com/in/gowthamiashok/)
 - Email: gowthamiashok29@gmail.com
