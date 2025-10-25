@@ -15,11 +15,11 @@ automation through self-driven projects to prepare for real-world AI challenges.
 
 
 ## 🌟 Featured Projects
-- [Optimizing APU Performance in Metro Trains through Comparative Analysis](https://github.com/Gowthamiashok/Optimizing-APU-Performance-in-Metro-Trains-Through-Comparative-Analysis) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
-- [Psychological Chatbot](https://github.com/Gowthamiashok/HealthCare_Chatbot) - Created and compared the results of multiple deep learning models to detect harmful fake news, providing a solution to mitigate misinformation.
-- [Multi Source Knowledge Hub RAG QA using Langchain](https://github.com/Gowthamiashok/Multi-Source-Knowledge-Hub-RAG-QA-with-LangChain) - Built a linear regression model to predict and visualize Covid-19 trends.
-- [Fine Tuning LLama with PEFT for Question Answering Task using Unslot](https://github.com/Gowthamiashok/Fine-Tuning-Llama-with-PEFT-for-Question-Answering-Task-using-Unsloth) - Analyzed data trends, built a Tableau dashboard, and integrated it into a website for improved decision-making.
+- [Optimizing APU Performance in Metro Trains through Comparative Analysis](https://github.com/Gowthamiashok/Optimizing-APU-Performance-in-Metro-Trains-Through-Comparative-Analysis) - Developed a predictive and visual analytics framework to prevent APU failures in metro trains using ML, DL, and time-series forecasting.
+- [Multi Source Knowledge Hub RAG QA using Langchain](https://github.com/Gowthamiashok/Multi-Source-Knowledge-Hub-RAG-QA-with-LangChain) - Implemented a retrieval-augmented generation system with LangChain to answer questions from uploaded documents.
+- [Fine Tuning LLama with PEFT for Question Answering Task using Unslot](https://github.com/Gowthamiashok/Fine-Tuning-Llama-with-PEFT-for-Question-Answering-Task-using-Unsloth) - Applied PEFT techniques to fine-tune LLaMA for efficient, domain-specific question-answering tasks.
 - [Identification and Prediction of Gestational Diabetes](https://github.com/Gowthamiashok/Gestational_Diabetes) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
+- [Psychological Chatbot](https://github.com/Gowthamiashok/HealthCare_Chatbot) - Built an NLP-based chatbot for empathetic mental health and wellness support using neural network intent recognition.
 - [Fake News Detection using Deep Learning](https://github.com/Gowthamiashok/Fake-News-Detection-using-Deep-Learning) - Created and compared the results of multiple deep learning models to detect harmful fake news, providing a solution to mitigate misinformation.
 - [Airline Passenger Satisfaction](https://github.com/Gowthamiashok/AirlinePassengerSatisfaction/tree/main) - Analyzed data trends, built a Tableau dashboard, and integrated it into a website for improved decision-making.
 
