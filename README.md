@@ -16,6 +16,7 @@ automation through self-driven projects to prepare for real-world AI challenges.
 
 ## 🌟 Featured Projects
 - [Optimizing APU Performance in Metro Trains through Comparative Analysis](https://github.com/Gowthamiashok/Optimizing-APU-Performance-in-Metro-Trains-Through-Comparative-Analysis) - Developed a predictive and visual analytics framework to prevent APU failures in metro trains using ML, DL, and time-series forecasting.
+- [Cold Email Automation](https://github.com/Gowthamiashok/cold-email-automation) - Developed a Streamlit app to automate personalized email campaigns from an N8N workflow using Gmail OAuth2 and AI personalization.
 - [Multi Source Knowledge Hub RAG QA using Langchain](https://github.com/Gowthamiashok/Multi-Source-Knowledge-Hub-RAG-QA-with-LangChain) - Implemented a retrieval-augmented generation system with LangChain to answer questions from uploaded documents.
 - [Fine Tuning LLama with PEFT for Question Answering Task using Unslot](https://github.com/Gowthamiashok/Fine-Tuning-Llama-with-PEFT-for-Question-Answering-Task-using-Unsloth) - Applied PEFT techniques to fine-tune LLaMA for efficient, domain-specific question-answering tasks.
 - [Identification and Prediction of Gestational Diabetes](https://github.com/Gowthamiashok/Gestational_Diabetes) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
