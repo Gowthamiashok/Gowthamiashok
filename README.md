@@ -1,15 +1,18 @@
 # Hi there, I'm Gowthami A 👋
 
-I'm an aspiring and dedicated data science graduate with a strong expertise in SQL, Python, and data visualization using tools
-like Tableau and Power BI. Proficient in developing machine learning models, automating reports, and delivering
-actionable business insights. Seeking opportunities to further enhance expertise in the field of Data Science.
+I'm a Data Science practitioner with hands-on experience in analytics, machine learning, and statistical modeling. Proficient
+in Python, R, SQL, Tableau, and Power BI. Skilled at translating complex data into insights and predictive models.
+Currently exploring Generative AI with a focus on RAG pipelines via LangChain, and experimenting with AI agents and
+automation through self-driven projects to prepare for real-world AI challenges.
 
 ## 🛠 Technologies & Tools
 - **Programming Languages**: Python, R, Java, C
-- **Data Science and Analytics**: Machine Learning, Deep Learning, Data Mining, Statistics, NLP
-- **Database Management**: PostgreSQL, mySQL
+- **Data Science and AI**: Machine Learning, Deep Learning (Tensorflow, PyTorch, Keras), Data Mining, Statistics, NLP, LLMs, RAG
+- **Database Management**: SQL (PostgreSQL, MySQL, DuckDB, Clickhouse)
+- **Tools**: Tableau, PowerBI, Excel, AWS, Git, Meltano, Airflow, Apache Arrow
 - **Data Visualization**: Tableau, PowerBI, Excel VBA
 - **Web Development**: HTML, CSS, JavaScript, Angular, Flask
+
 
 ## 🌟 Featured Projects
 - [Identification and Prediction of Gestational Diabetes](https://github.com/Gowthamiashok/Gestational_Diabetes) - Developed and evaluated neural network models for accurate prediction of gestational diabetes mellitus (GDM).
@@ -27,15 +30,30 @@ actionable business insights. Seeking opportunities to further enhance expertise
 - Email: gowthamiashok29@gmail.com
 
 ## 💼 Experience
-- **Full Stack and Machine Learning Developer Intern**  
-  *IDP Education India Services LLP*  
-  May 2023 - July 2023  
-  - Enhanced IDP and IELTS templates by creating responsive interfaces using media queries, ensuring optimal user experience across devices.
-  - Developed and deployed a personal portfolio website utilizing advanced responsive design techniques, hosted on Firebase for seamless performance.
+- **AI Engineer**  
+  *Xerago*  
+  July 2023 - Present  
+  - Conducted an in-depth assessment of the legacy SQL OLAP environment, documenting data models, dependencies, and reporting workflows to understand existing analytical systems.
+  - Designed the data modernization architecture and led the migration to a scalable EL system using Meltano and ClickHouse, enabling faster analytical queries and storage efficiency.
+  - Built and automated full-load and incremental data migration pipelines, successfully migrating all source systems and establishing a stable EL data layer.
+  - Currently replicating production analytical workflows using dbt, implementing modular and testable transformations to form the new semantic and reporting layer.
+  - Using Apache Arrow (PyArrow) for optimized in-memory columnar processing and efficient interchange between pipeline components.
+  - Orchestrating end-to-end workflows in Apache Airflow, ensuring reliable scheduling, monitoring, and maintainability of enterprise data pipelines.
 
-- **UX Developer and Full Stack Developer Intern**  
+- **Data and Business Analyst**  
+  *ABEX*  
+  March 2025 - June2025  
+  - Cleaned, structured, and optimized large business datasets, improving data workflows and developing interactive Power BI dashboards to support strategic, data-driven decision-making.
+  - Conducted market research and assisted in lead identification, helping uncover new business opportunities and contributing to enhanced client engagement strategies.
+
+- **UX Developer Intern**  
+  *IDP Education India Services LLP*  
+  May 2023 - July 2023
+  - Enhanced IDP and IELTS web templates with responsive UI design, implementing media queries to ensure consistent, multi-device performance and accessibility.
+  - Collaborated with design and product teams to align interface improvements with stakeholder requirements and maintain brand and usability standards.
+
+- **Full Stack and Machine Learning Developer Intern**  
   *HealthMed Technologies*  
   April 2022 - June 2022  
-  - Engineered an Angular web application with a Firestore backend to streamline reorder level management, improving inventory tracking efficiency.
-  - Developed and deployed machine learning models using Flask, enhancing the application’s predictive capabilities and user interactivity.
-
+  - Developed Angular-based healthcare inventory management system with Firestore backend and deployed Flask ML models for predictive analytics of kidney disease and COVID-19 risk assessment using Docker.
+  - Collaborated with healthcare professionals to gather clinical requirements and ensure model accuracy for real-world medical applications.
